@@ -1,0 +1,8 @@
+gspread
+oauth2client
+pandas
+python-dotenv
+SQLAlchemy
+pangres
+gspread-dataframe
+minio
